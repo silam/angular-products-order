@@ -3,13 +3,13 @@ export const products = [
     id: 1,
     name: 'Phone XL',
     price: 799,
-    description: 'A large phone with one of the best screens'
+    description: 'A large phone XL with one of the best screens'
   },
   {
     id: 2,
     name: 'Phone Mini',
     price: 699,
-    description: 'A great phone with one of the best cameras'
+    description: 'A great phone Mini with one of the best cameras'
   },
   {
     id: 3,
